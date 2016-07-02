@@ -31,7 +31,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="40dp"
                     android:hint="@string/zip_hint"
-                    android:inputType="number"/>
+                    android:inputType="number"
+                    android:id="@+id/zip_text"/>
                 
             </LinearLayout>
             
